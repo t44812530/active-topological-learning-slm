@@ -6,7 +6,7 @@ Active Topological Learning (ATL): A Geometric Framework for Targeted Knowledge 
 **Companion repository for:**
 > *Active Topological Learning (ATL): A Geometric Framework for Targeted Knowledge Injection in Small Language Models*
 > Tania Swanepoel — Independent Researcher, Brisbane, Australia — March 2026
-> [Zenodo preprint — DOI: pending]
+> [Zenodo preprint — DOI:(https://zenodo.org/records/18982007)]
 
 ---
 
