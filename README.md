@@ -149,7 +149,7 @@ python scripts/phase_16_xqz77_heavy_strike.py
   title     = {Active Topological Learning (ATL): A Geometric Framework for Targeted Knowledge Injection in Small Language Models},
   year      = {2026},
   publisher = {Zenodo},
-  doi       = {pending}
+  doi       = {[pending](https://zenodo.org/records/18982007)}
 }
 ```
 
