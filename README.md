@@ -63,7 +63,7 @@ The inserted concept is subsequently discoverable by naive natural language quer
 | Training time (surgical insertion) | ~10 seconds |
 | Training time (Directional Slipstream) | 38.47 seconds |
 | Determinism across seeds | Identical dimensional subspace [7, 55, 87, 227, 250, 252, 368, 167, 131, 40, 359, 105, 189, 302] |
-| Origin Gravity (Heavy Strike) | Immutable boundary; Target constrained to Position 2 (d=0.176) behind singular origin mass |
+| Origin Gravity (Heavy Strike) | Persistent boundary; Target constrained to Position 2 (d=0.176) behind singular origin mass |
 
 ---
 
