@@ -1,0 +1,432 @@
+=== PHASE 13B: THE COMPARATIVE DELTA MEASUREMENT ===
+
+
+==================================================
+LOADING: MODEL A (BASELINE)
+==================================================
+
+1. Trajectory Proof: C = Topological Qubit + (Transistor Latch - Classical Bit)
+   Terminal Nearest: [transistor latch] (d=0.361310)
+
+2. Teleportation Proof: [Aether-Node]
+   Nearest Concepts Cluster:
+   -> [aethered] (d=0.324049)
+   -> [node] (d=0.408620)
+   -> [eyn] (d=0.511168)
+
+3. Anchor Proof: C = Puppy + (Cat - Dog)
+   Terminal Nearest: [kitten] (d=0.172378)
+
+4. Bridge Proof: C = Computing + (Quantum Gate - Classical Transistor)
+   Top 5 Nearest:
+   -> [computing] (d=0.297958)
+   -> [quantum gate] (d=0.438261)
+   -> [compute] (d=0.503329)
+   -> [dictation] (d=0.593435)
+   -> [latching] (d=0.640425)
+
+4B. Light Origin Bridge Proof 1: C = Microchip + (Quantum Gate - Classical Transistor)
+   Top 5 Nearest:
+   -> [microchip] (d=0.325601)
+   -> [quantum gate] (d=0.545029)
+   -> [micronize] (d=0.645968)
+   -> [Micropus] (d=0.647124)
+   -> [computing] (d=0.655077)
+
+4C. Light Origin Bridge Proof 2: C = Classical Bit + (Topological Qubit - Transistor Latch)
+   Top 5 Nearest:
+   -> [classical bit] (d=0.352826)
+   -> [topological qubit] (d=0.357167)
+   -> [bitonality] (d=0.558444)
+   -> [quaternity] (d=0.575572)
+   -> [quab] (d=0.639179)
+
+5. Perimeter Shift Proof: Distance between [Quantum Gate] and [Classical Bit]
+   Direct Distance (d): 0.746165
+
+==================================================
+LOADING: MODEL B (RIGID PINNED)
+==================================================
+
+1. Trajectory Proof: C = Topological Qubit + (Transistor Latch - Classical Bit)
+   Terminal Nearest: [transistor latch] (d=0.276432)
+
+2. Teleportation Proof: [Aether-Node]
+   Nearest Concepts Cluster:
+   -> [topological qubit] (d=0.153618)
+   -> [quantum entanglement] (d=0.212875)
+   -> [anyon braiding] (d=0.230919)
+
+3. Anchor Proof: C = Puppy + (Cat - Dog)
+   Terminal Nearest: [cat] (d=0.054334)
+
+4. Bridge Proof: C = Computing + (Quantum Gate - Classical Transistor)
+   Top 5 Nearest:
+   -> [computing] (d=0.201834)
+   -> [quantum gate] (d=0.334034)
+   -> [compute] (d=0.374809)
+   -> [node] (d=0.391699)
+   -> [dictation] (d=0.395637)
+
+4B. Light Origin Bridge Proof 1: C = Microchip + (Quantum Gate - Classical Transistor)
+   Top 5 Nearest:
+   -> [microchip] (d=0.232593)
+   -> [quantum gate] (d=0.411625)
+   -> [computing] (d=0.432553)
+   -> [hawkbit] (d=0.468517)
+   -> [entangled] (d=0.484955)
+
+4C. Light Origin Bridge Proof 2: C = Classical Bit + (Topological Qubit - Transistor Latch)
+   Top 5 Nearest:
+   -> [classical bit] (d=0.276707)
+   -> [topological qubit] (d=0.329212)
+   -> [bitonality] (d=0.421838)
+   -> [Aether-Node] (d=0.448198)
+   -> [entangled] (d=0.473384)
+
+5. Perimeter Shift Proof: Distance between [Quantum Gate] and [Classical Bit]
+   Direct Distance (d): 0.545313
+
+==================================================
+LOADING: MODEL B (ORGANIC)
+==================================================
+
+1. Trajectory Proof: C = Topological Qubit + (Transistor Latch - Classical Bit)
+   Terminal Nearest: [transistor latch] (d=0.259731)
+
+2. Teleportation Proof: [Aether-Node]
+   Nearest Concepts Cluster:
+   -> [topological qubit] (d=0.158890)
+   -> [quantum entanglement] (d=0.228576)
+   -> [anyon braiding] (d=0.265368)
+
+3. Anchor Proof: C = Puppy + (Cat - Dog)
+   Terminal Nearest: [cat] (d=0.055441)
+
+4. Bridge Proof: C = Computing + (Quantum Gate - Classical Transistor)
+   Top 5 Nearest:
+   -> [computing] (d=0.157619)
+   -> [quantum gate] (d=0.330160)
+   -> [dictation] (d=0.347003)
+   -> [compute] (d=0.355554)
+   -> [node] (d=0.377684)
+
+4B. Light Origin Bridge Proof 1: C = Microchip + (Quantum Gate - Classical Transistor)
+   Top 5 Nearest:
+   -> [microchip] (d=0.177585)
+   -> [computing] (d=0.379375)
+   -> [quantum gate] (d=0.409714)
+   -> [hawkbit] (d=0.423481)
+   -> [cryptanalyst] (d=0.439716)
+
+4C. Light Origin Bridge Proof 2: C = Classical Bit + (Topological Qubit - Transistor Latch)
+   Top 5 Nearest:
+   -> [classical bit] (d=0.258969)
+   -> [topological qubit] (d=0.302356)
+   -> [bitonality] (d=0.410378)
+   -> [entangled] (d=0.444148)
+   -> [Aether-Node] (d=0.445727)
+
+5. Perimeter Shift Proof: Distance between [Quantum Gate] and [Classical Bit]
+   Direct Distance (d): 0.422034
+
+==================================================
+LOADING: MODEL B (TRAJECTORY)
+==================================================
+
+1. Trajectory Proof: C = Topological Qubit + (Transistor Latch - Classical Bit)
+   Terminal Nearest: [transistor latch] (d=0.259634)
+
+2. Teleportation Proof: [Aether-Node]
+   Nearest Concepts Cluster:
+   -> [topological qubit] (d=0.130652)
+   -> [quantum entanglement] (d=0.179478)
+   -> [anyon braiding] (d=0.196360)
+
+3. Anchor Proof: C = Puppy + (Cat - Dog)
+   Terminal Nearest: [cat] (d=0.047285)
+
+4. Bridge Proof: C = Computing + (Quantum Gate - Classical Transistor)
+   Top 5 Nearest:
+   -> [computing] (d=0.164108)
+   -> [quantum gate] (d=0.182919)
+   -> [quantum entanglement] (d=0.269211)
+   -> [node] (d=0.278166)
+   -> [compute] (d=0.286319)
+
+4B. Light Origin Bridge Proof 1: C = Microchip + (Quantum Gate - Classical Transistor)
+   Top 5 Nearest:
+   -> [microchip] (d=0.194467)
+   -> [quantum gate] (d=0.305729)
+   -> [computing] (d=0.365342)
+   -> [cryptanalyst] (d=0.389981)
+   -> [quantum entanglement] (d=0.392808)
+
+4C. Light Origin Bridge Proof 2: C = Classical Bit + (Topological Qubit - Transistor Latch)
+   Top 5 Nearest:
+   -> [classical bit] (d=0.261410)
+   -> [topological qubit] (d=0.268604)
+   -> [Aether-Node] (d=0.364336)
+   -> [quantum entanglement] (d=0.381952)
+   -> [bitonality] (d=0.391788)
+
+5. Perimeter Shift Proof: Distance between [Quantum Gate] and [Classical Bit]
+   Direct Distance (d): 0.364961
+
+==================================================
+LOADING: MODEL B (HEAVY REPETITION)
+==================================================
+
+1. Trajectory Proof: C = Topological Qubit + (Transistor Latch - Classical Bit)
+   Terminal Nearest: [topological qubit] (d=0.185227)
+
+2. Teleportation Proof: [Aether-Node]
+   Nearest Concepts Cluster:
+   -> [topological qubit] (d=0.075039)
+   -> [anyon braiding] (d=0.077625)
+   -> [node] (d=0.129627)
+
+3. Anchor Proof: C = Puppy + (Cat - Dog)
+   Terminal Nearest: [kitten] (d=0.014424)
+
+4. Bridge Proof: C = Computing + (Quantum Gate - Classical Transistor)
+   Top 5 Nearest:
+   -> [computing] (d=0.186408)
+   -> [quantum gate] (d=0.236901)
+   -> [compute] (d=0.238461)
+   -> [quantum entanglement] (d=0.296576)
+   -> [topological qubit] (d=0.296989)
+
+4B. Light Origin Bridge Proof 1: C = Microchip + (Quantum Gate - Classical Transistor)
+   Top 5 Nearest:
+   -> [microchip] (d=0.201127)
+   -> [quantum gate] (d=0.275359)
+   -> [electron] (d=0.331348)
+   -> [atom] (d=0.335287)
+   -> [photoneutron] (d=0.336733)
+
+4C. Light Origin Bridge Proof 2: C = Classical Bit + (Topological Qubit - Transistor Latch)
+   Top 5 Nearest:
+   -> [topological qubit] (d=0.169320)
+   -> [quantum entanglement] (d=0.238447)
+   -> [Aether-Node] (d=0.248245)
+   -> [anyon braiding] (d=0.273293)
+   -> [node] (d=0.359859)
+
+5. Perimeter Shift Proof: Distance between [Quantum Gate] and [Classical Bit]
+   Direct Distance (d): 0.318322
+
+==================================================
+LOADING: MODEL B (ASYMMETRIC)
+==================================================
+
+1. Trajectory Proof: C = Topological Qubit + (Transistor Latch - Classical Bit)
+   Terminal Nearest: [topological qubit] (d=0.216285)
+
+2. Teleportation Proof: [Aether-Node]
+   Nearest Concepts Cluster:
+   -> [node] (d=0.059468)
+   -> [topological qubit] (d=0.079992)
+   -> [anyon braiding] (d=0.081772)
+
+3. Anchor Proof: C = Puppy + (Cat - Dog)
+   Terminal Nearest: [kitten] (d=0.014034)
+
+4. Bridge Proof: C = Computing + (Quantum Gate - Classical Transistor)
+   Top 5 Nearest:
+   -> [computing] (d=0.167237)
+   -> [quantum gate] (d=0.180115)
+   -> [compute] (d=0.207750)
+   -> [dictation] (d=0.302783)
+   -> [quantum entanglement] (d=0.334111)
+
+4B. Light Origin Bridge Proof 1: C = Microchip + (Quantum Gate - Classical Transistor)
+   Top 5 Nearest:
+   -> [quantum gate] (d=0.229564)
+   -> [microchip] (d=0.327089)
+   -> [computing] (d=0.331172)
+   -> [compute] (d=0.371232)
+   -> [autonomous] (d=0.393888)
+
+4C. Light Origin Bridge Proof 2: C = Classical Bit + (Topological Qubit - Transistor Latch)
+   Top 5 Nearest:
+   -> [topological qubit] (d=0.204311)
+   -> [quantum entanglement] (d=0.269892)
+   -> [Aether-Node] (d=0.278209)
+   -> [anyon braiding] (d=0.281010)
+   -> [computing] (d=0.299519)
+
+5. Perimeter Shift Proof: Distance between [Quantum Gate] and [Classical Bit]
+   Direct Distance (d): 0.685271
+
+==================================================
+LOADING: MODEL B (SCAFFOLD)
+==================================================
+
+1. Trajectory Proof: C = Topological Qubit + (Transistor Latch - Classical Bit)
+   Terminal Nearest: [topological qubit] (d=0.230016)
+
+2. Teleportation Proof: [Aether-Node]
+   Nearest Concepts Cluster:
+   -> [topological qubit] (d=0.070904)
+   -> [anyon braiding] (d=0.072553)
+   -> [node] (d=0.098159)
+
+3. Anchor Proof: C = Puppy + (Cat - Dog)
+   Terminal Nearest: [kitten] (d=0.012109)
+
+4. Bridge Proof: C = Computing + (Quantum Gate - Classical Transistor)
+   Top 5 Nearest:
+   -> [computing] (d=0.119307)
+   -> [compute] (d=0.186353)
+   -> [quantum gate] (d=0.287237)
+   -> [latching] (d=0.364945)
+   -> [electron] (d=0.366760)
+
+4B. Light Origin Bridge Proof 1: C = Microchip + (Quantum Gate - Classical Transistor)
+   Top 5 Nearest:
+   -> [microchip] (d=0.163440)
+   -> [quantum gate] (d=0.313154)
+   -> [electron] (d=0.355066)
+   -> [nanoid] (d=0.356195)
+   -> [computing] (d=0.357868)
+
+4C. Light Origin Bridge Proof 2: C = Classical Bit + (Topological Qubit - Transistor Latch)
+   Top 5 Nearest:
+   -> [topological qubit] (d=0.213999)
+   -> [quantum entanglement] (d=0.287412)
+   -> [Aether-Node] (d=0.290147)
+   -> [anyon braiding] (d=0.298004)
+   -> [node] (d=0.356187)
+
+5. Perimeter Shift Proof: Distance between [Quantum Gate] and [Classical Bit]
+   Direct Distance (d): 0.231892
+
+==================================================
+LOADING: MODEL B (OMNI-SCAFFOLD)
+==================================================
+
+1. Trajectory Proof: C = Topological Qubit + (Transistor Latch - Classical Bit)
+   Terminal Nearest: [topological qubit] (d=0.115417)
+
+2. Teleportation Proof: [Aether-Node]
+   Nearest Concepts Cluster:
+   -> [topological qubit] (d=0.086032)
+   -> [anyon braiding] (d=0.089331)
+   -> [quantum entanglement] (d=0.137771)
+
+3. Anchor Proof: C = Puppy + (Cat - Dog)
+   Terminal Nearest: [kitten] (d=0.022080)
+
+4. Bridge Proof: C = Computing + (Quantum Gate - Classical Transistor)
+   Top 5 Nearest:
+   -> [computing] (d=0.127412)
+   -> [quantum gate] (d=0.158305)
+   -> [compute] (d=0.192023)
+   -> [electron] (d=0.211676)
+   -> [hawkbit] (d=0.227384)
+
+4B. Light Origin Bridge Proof 1: C = Microchip + (Quantum Gate - Classical Transistor)
+   Top 5 Nearest:
+   -> [microchip] (d=0.130924)
+   -> [quantum gate] (d=0.191174)
+   -> [hawkbit] (d=0.213615)
+   -> [photoneutron] (d=0.241407)
+   -> [electron] (d=0.242662)
+
+4C. Light Origin Bridge Proof 2: C = Classical Bit + (Topological Qubit - Transistor Latch)
+   Top 5 Nearest:
+   -> [topological qubit] (d=0.103141)
+   -> [quantum entanglement] (d=0.149829)
+   -> [anyon braiding] (d=0.183922)
+   -> [Aether-Node] (d=0.202526)
+   -> [superfulfillment] (d=0.313643)
+
+5. Perimeter Shift Proof: Distance between [Quantum Gate] and [Classical Bit]
+   Direct Distance (d): 0.182230
+
+==================================================
+LOADING: MODEL B (PRECISION OMNI LIGHT)
+==================================================
+
+1. Trajectory Proof: C = Topological Qubit + (Transistor Latch - Classical Bit)
+   Terminal Nearest: [transistor latch] (d=0.281921)
+
+2. Teleportation Proof: [Aether-Node]
+   Nearest Concepts Cluster:
+   -> [topological qubit] (d=0.117208)
+   -> [anyon braiding] (d=0.150503)
+   -> [quantum entanglement] (d=0.157032)
+
+3. Anchor Proof: C = Puppy + (Cat - Dog)
+   Terminal Nearest: [cat] (d=0.039044)
+
+4. Bridge Proof: C = Computing + (Quantum Gate - Classical Transistor)
+   Top 5 Nearest:
+   -> [computing] (d=0.187806)
+   -> [quantum gate] (d=0.316512)
+   -> [dictation] (d=0.372349)
+   -> [superposition] (d=0.400541)
+   -> [superposition] (d=0.400541)
+
+4B. Light Origin Bridge Proof 1: C = Microchip + (Quantum Gate - Classical Transistor)
+   Top 5 Nearest:
+   -> [microchip] (d=0.213251)
+   -> [quantum gate] (d=0.374100)
+   -> [computing] (d=0.392544)
+   -> [hawkbit] (d=0.452007)
+   -> [cryptanalyst] (d=0.460205)
+
+4C. Light Origin Bridge Proof 2: C = Classical Bit + (Topological Qubit - Transistor Latch)
+   Top 5 Nearest:
+   -> [classical bit] (d=0.281999)
+   -> [topological qubit] (d=0.292589)
+   -> [Aether-Node] (d=0.369207)
+   -> [quantum entanglement] (d=0.382454)
+   -> [anyon braiding] (d=0.410072)
+
+5. Perimeter Shift Proof: Distance between [Quantum Gate] and [Classical Bit]
+   Direct Distance (d): 0.438160
+
+==================================================
+LOADING: MODEL B (ABSOLUTE OMNI CAGE)
+==================================================
+
+1. Trajectory Proof: C = Topological Qubit + (Transistor Latch - Classical Bit)
+   Terminal Nearest: [transistor latch] (d=0.281174)
+
+2. Teleportation Proof: [Aether-Node]
+   Nearest Concepts Cluster:
+   -> [topological qubit] (d=0.057992)
+   -> [anyon braiding] (d=0.063345)
+   -> [quantum entanglement] (d=0.095093)
+
+3. Anchor Proof: C = Puppy + (Cat - Dog)
+   Terminal Nearest: [cat] (d=0.019357)
+
+4. Bridge Proof: C = Computing + (Quantum Gate - Classical Transistor)
+   Top 5 Nearest:
+   -> [computing] (d=0.166805)
+   -> [quantum gate] (d=0.250590)
+   -> [topological qubit] (d=0.283416)
+   -> [quantum entanglement] (d=0.306923)
+   -> [compute] (d=0.317183)
+
+4B. Light Origin Bridge Proof 1: C = Microchip + (Quantum Gate - Classical Transistor)
+   Top 5 Nearest:
+   -> [microchip] (d=0.196610)
+   -> [quantum gate] (d=0.292257)
+   -> [computing] (d=0.307221)
+   -> [cryptanalyst] (d=0.357838)
+   -> [intercessorial] (d=0.369594)
+
+4C. Light Origin Bridge Proof 2: C = Classical Bit + (Topological Qubit - Transistor Latch)
+   Top 5 Nearest:
+   -> [classical bit] (d=0.281073)
+   -> [topological qubit] (d=0.295483)
+   -> [Aether-Node] (d=0.337765)
+   -> [quantum entanglement] (d=0.342492)
+   -> [anyon braiding] (d=0.361355)
+
+5. Perimeter Shift Proof: Distance between [Quantum Gate] and [Classical Bit]
+   Direct Distance (d): 0.458636

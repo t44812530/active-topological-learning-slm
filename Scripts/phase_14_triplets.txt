@@ -1,0 +1,786 @@
+=== JIT_ATL: PHASE 14 - OMNI-SCAFFOLD ABSOLUTE PRE-SURVEY ===
+
+Loading Model A (all-MiniLM-L6-v2)...
+Extracted 20365 valid alphabetic words from vocabulary.
+
+-> 1. Locating the Target Neighborhood (385 Nearest Edge Nodes to 'topological qubit')...
+
+-> 2. Calculating Derived Distances from Origin ('computing') to Edge Nodes...
+Generating the N-Dimensional Trilateration Scaffold...
+
+   Edge Node: topological     | Distance from 'computing': d=0.7668  ->  Training Sim: 0.2332
+   Edge Node: quantum         | Distance from 'computing': d=0.6683  ->  Training Sim: 0.3317
+   Edge Node: topology        | Distance from 'computing': d=0.7374  ->  Training Sim: 0.2626
+   Edge Node: junctions       | Distance from 'computing': d=0.7260  ->  Training Sim: 0.2740
+   Edge Node: spaces          | Distance from 'computing': d=0.6890  ->  Training Sim: 0.3110
+   Edge Node: quan            | Distance from 'computing': d=0.6927  ->  Training Sim: 0.3073
+   Edge Node: space           | Distance from 'computing': d=0.6986  ->  Training Sim: 0.3014
+   Edge Node: unitary         | Distance from 'computing': d=0.7689  ->  Training Sim: 0.2311
+   Edge Node: connectivity    | Distance from 'computing': d=0.5814  ->  Training Sim: 0.4186
+   Edge Node: grover          | Distance from 'computing': d=0.7446  ->  Training Sim: 0.2554
+   Edge Node: bloc            | Distance from 'computing': d=0.7295  ->  Training Sim: 0.2705
+   Edge Node: molded          | Distance from 'computing': d=0.7148  ->  Training Sim: 0.2852
+   Edge Node: neighbourhoods  | Distance from 'computing': d=0.7458  ->  Training Sim: 0.2542
+   Edge Node: conway          | Distance from 'computing': d=0.5995  ->  Training Sim: 0.4005
+   Edge Node: rang            | Distance from 'computing': d=0.6708  ->  Training Sim: 0.3292
+   Edge Node: junction        | Distance from 'computing': d=0.6730  ->  Training Sim: 0.3270
+   Edge Node: cantor          | Distance from 'computing': d=0.7133  ->  Training Sim: 0.2867
+   Edge Node: walls           | Distance from 'computing': d=0.7562  ->  Training Sim: 0.2438
+   Edge Node: planck          | Distance from 'computing': d=0.7113  ->  Training Sim: 0.2887
+   Edge Node: openings        | Distance from 'computing': d=0.7547  ->  Training Sim: 0.2453
+   Edge Node: meets           | Distance from 'computing': d=0.7294  ->  Training Sim: 0.2706
+   Edge Node: neighbourhood   | Distance from 'computing': d=0.7787  ->  Training Sim: 0.2213
+   Edge Node: breadth         | Distance from 'computing': d=0.6258  ->  Training Sim: 0.3742
+   Edge Node: manifold        | Distance from 'computing': d=0.7506  ->  Training Sim: 0.2494
+   Edge Node: hubbard         | Distance from 'computing': d=0.7134  ->  Training Sim: 0.2866
+   Edge Node: subsp           | Distance from 'computing': d=0.6960  ->  Training Sim: 0.3040
+   Edge Node: rooms           | Distance from 'computing': d=0.7355  ->  Training Sim: 0.2645
+   Edge Node: outset          | Distance from 'computing': d=0.7416  ->  Training Sim: 0.2584
+   Edge Node: notch           | Distance from 'computing': d=0.7548  ->  Training Sim: 0.2452
+   Edge Node: neumann         | Distance from 'computing': d=0.7649  ->  Training Sim: 0.2351
+   Edge Node: neighborhoods   | Distance from 'computing': d=0.7489  ->  Training Sim: 0.2511
+   Edge Node: ronan           | Distance from 'computing': d=0.8059  ->  Training Sim: 0.1941
+   Edge Node: universe        | Distance from 'computing': d=0.6848  ->  Training Sim: 0.3152
+   Edge Node: edges           | Distance from 'computing': d=0.6678  ->  Training Sim: 0.3322
+   Edge Node: galaxies        | Distance from 'computing': d=0.8089  ->  Training Sim: 0.1911
+   Edge Node: hall            | Distance from 'computing': d=0.7702  ->  Training Sim: 0.2298
+   Edge Node: wall            | Distance from 'computing': d=0.7019  ->  Training Sim: 0.2981
+   Edge Node: battista        | Distance from 'computing': d=0.8025  ->  Training Sim: 0.1975
+   Edge Node: floyd           | Distance from 'computing': d=0.8593  ->  Training Sim: 0.1407
+   Edge Node: voyager         | Distance from 'computing': d=0.7921  ->  Training Sim: 0.2079
+   Edge Node: slits           | Distance from 'computing': d=0.7233  ->  Training Sim: 0.2767
+   Edge Node: hilbert         | Distance from 'computing': d=0.7281  ->  Training Sim: 0.2719
+   Edge Node: dickson         | Distance from 'computing': d=0.6733  ->  Training Sim: 0.3267
+   Edge Node: acheron         | Distance from 'computing': d=0.8694  ->  Training Sim: 0.1306
+   Edge Node: slots           | Distance from 'computing': d=0.6491  ->  Training Sim: 0.3509
+   Edge Node: locality        | Distance from 'computing': d=0.6691  ->  Training Sim: 0.3309
+   Edge Node: lattice         | Distance from 'computing': d=0.6075  ->  Training Sim: 0.3925
+   Edge Node: nguyen          | Distance from 'computing': d=0.8033  ->  Training Sim: 0.1967
+   Edge Node: turing          | Distance from 'computing': d=0.3809  ->  Training Sim: 0.6191
+   Edge Node: tyson           | Distance from 'computing': d=0.8191  ->  Training Sim: 0.1809
+   Edge Node: hawk            | Distance from 'computing': d=0.7413  ->  Training Sim: 0.2587
+   Edge Node: inside          | Distance from 'computing': d=0.6999  ->  Training Sim: 0.3001
+   Edge Node: operators       | Distance from 'computing': d=0.6106  ->  Training Sim: 0.3894
+   Edge Node: slot            | Distance from 'computing': d=0.6887  ->  Training Sim: 0.3113
+   Edge Node: cavity          | Distance from 'computing': d=0.8461  ->  Training Sim: 0.1539
+   Edge Node: stronghold      | Distance from 'computing': d=0.8258  ->  Training Sim: 0.1742
+   Edge Node: interior        | Distance from 'computing': d=0.7577  ->  Training Sim: 0.2423
+   Edge Node: franks          | Distance from 'computing': d=0.7585  ->  Training Sim: 0.2415
+   Edge Node: circled         | Distance from 'computing': d=0.7006  ->  Training Sim: 0.2994
+   Edge Node: maze            | Distance from 'computing': d=0.7142  ->  Training Sim: 0.2858
+   Edge Node: mapped          | Distance from 'computing': d=0.6839  ->  Training Sim: 0.3161
+   Edge Node: compact         | Distance from 'computing': d=0.7263  ->  Training Sim: 0.2737
+   Edge Node: zhejiang        | Distance from 'computing': d=0.8263  ->  Training Sim: 0.1737
+   Edge Node: room            | Distance from 'computing': d=0.6943  ->  Training Sim: 0.3057
+   Edge Node: quentin         | Distance from 'computing': d=0.8471  ->  Training Sim: 0.1529
+   Edge Node: outer           | Distance from 'computing': d=0.7568  ->  Training Sim: 0.2432
+   Edge Node: walled          | Distance from 'computing': d=0.8152  ->  Training Sim: 0.1848
+   Edge Node: bastion         | Distance from 'computing': d=0.7711  ->  Training Sim: 0.2289
+   Edge Node: continuum       | Distance from 'computing': d=0.7781  ->  Training Sim: 0.2219
+   Edge Node: octagonal       | Distance from 'computing': d=0.7204  ->  Training Sim: 0.2796
+   Edge Node: entrances       | Distance from 'computing': d=0.7354  ->  Training Sim: 0.2646
+   Edge Node: surrounded      | Distance from 'computing': d=0.7252  ->  Training Sim: 0.2748
+   Edge Node: structures      | Distance from 'computing': d=0.6809  ->  Training Sim: 0.3191
+   Edge Node: hilton          | Distance from 'computing': d=0.8193  ->  Training Sim: 0.1807
+   Edge Node: peering         | Distance from 'computing': d=0.6856  ->  Training Sim: 0.3144
+   Edge Node: periodic        | Distance from 'computing': d=0.7520  ->  Training Sim: 0.2480
+   Edge Node: fritz           | Distance from 'computing': d=0.7662  ->  Training Sim: 0.2338
+   Edge Node: haas            | Distance from 'computing': d=0.8072  ->  Training Sim: 0.1928
+   Edge Node: lobe            | Distance from 'computing': d=0.7601  ->  Training Sim: 0.2399
+   Edge Node: neighborhood    | Distance from 'computing': d=0.7836  ->  Training Sim: 0.2164
+   Edge Node: horizons        | Distance from 'computing': d=0.7503  ->  Training Sim: 0.2497
+   Edge Node: enclosed        | Distance from 'computing': d=0.6862  ->  Training Sim: 0.3138
+   Edge Node: anand           | Distance from 'computing': d=0.7799  ->  Training Sim: 0.2201
+   Edge Node: samba           | Distance from 'computing': d=0.8492  ->  Training Sim: 0.1508
+   Edge Node: abstraction     | Distance from 'computing': d=0.4958  ->  Training Sim: 0.5042
+   Edge Node: casper          | Distance from 'computing': d=0.8346  ->  Training Sim: 0.1654
+   Edge Node: mutter          | Distance from 'computing': d=0.7700  ->  Training Sim: 0.2300
+   Edge Node: cambrian        | Distance from 'computing': d=0.8020  ->  Training Sim: 0.1980
+   Edge Node: squid           | Distance from 'computing': d=0.7537  ->  Training Sim: 0.2463
+   Edge Node: chambers        | Distance from 'computing': d=0.8271  ->  Training Sim: 0.1729
+   Edge Node: brisbane        | Distance from 'computing': d=0.7880  ->  Training Sim: 0.2120
+   Edge Node: tweed           | Distance from 'computing': d=0.8518  ->  Training Sim: 0.1482
+   Edge Node: cosmos          | Distance from 'computing': d=0.7692  ->  Training Sim: 0.2308
+   Edge Node: braid           | Distance from 'computing': d=0.7173  ->  Training Sim: 0.2827
+   Edge Node: portals         | Distance from 'computing': d=0.7026  ->  Training Sim: 0.2974
+   Edge Node: correspondence  | Distance from 'computing': d=0.7026  ->  Training Sim: 0.2974
+   Edge Node: boundary        | Distance from 'computing': d=0.7089  ->  Training Sim: 0.2911
+   Edge Node: pitt            | Distance from 'computing': d=0.8328  ->  Training Sim: 0.1672
+   Edge Node: occupies        | Distance from 'computing': d=0.7233  ->  Training Sim: 0.2767
+   Edge Node: grafton         | Distance from 'computing': d=0.8472  ->  Training Sim: 0.1528
+   Edge Node: network         | Distance from 'computing': d=0.5957  ->  Training Sim: 0.4043
+   Edge Node: contiguous      | Distance from 'computing': d=0.6624  ->  Training Sim: 0.3376
+   Edge Node: zheng           | Distance from 'computing': d=0.7796  ->  Training Sim: 0.2204
+   Edge Node: quay            | Distance from 'computing': d=0.7666  ->  Training Sim: 0.2334
+   Edge Node: connects        | Distance from 'computing': d=0.7374  ->  Training Sim: 0.2626
+   Edge Node: residences      | Distance from 'computing': d=0.7521  ->  Training Sim: 0.2479
+   Edge Node: inner           | Distance from 'computing': d=0.7360  ->  Training Sim: 0.2640
+   Edge Node: thru            | Distance from 'computing': d=0.7819  ->  Training Sim: 0.2181
+   Edge Node: encircled       | Distance from 'computing': d=0.7262  ->  Training Sim: 0.2738
+   Edge Node: cosmic          | Distance from 'computing': d=0.8091  ->  Training Sim: 0.1909
+   Edge Node: cisco           | Distance from 'computing': d=0.6223  ->  Training Sim: 0.3777
+   Edge Node: heinz           | Distance from 'computing': d=0.7917  ->  Training Sim: 0.2083
+   Edge Node: enclave         | Distance from 'computing': d=0.8023  ->  Training Sim: 0.1977
+   Edge Node: interiors       | Distance from 'computing': d=0.8043  ->  Training Sim: 0.1957
+   Edge Node: underwood       | Distance from 'computing': d=0.8016  ->  Training Sim: 0.1984
+   Edge Node: greenberg       | Distance from 'computing': d=0.7560  ->  Training Sim: 0.2440
+   Edge Node: structure       | Distance from 'computing': d=0.6628  ->  Training Sim: 0.3372
+   Edge Node: architectural   | Distance from 'computing': d=0.5339  ->  Training Sim: 0.4661
+   Edge Node: queensland      | Distance from 'computing': d=0.7839  ->  Training Sim: 0.2161
+   Edge Node: baxter          | Distance from 'computing': d=0.7216  ->  Training Sim: 0.2784
+   Edge Node: airways         | Distance from 'computing': d=0.8338  ->  Training Sim: 0.1662
+   Edge Node: benji           | Distance from 'computing': d=0.8504  ->  Training Sim: 0.1496
+   Edge Node: pocket          | Distance from 'computing': d=0.7100  ->  Training Sim: 0.2900
+   Edge Node: union           | Distance from 'computing': d=0.7444  ->  Training Sim: 0.2556
+   Edge Node: supper          | Distance from 'computing': d=0.7726  ->  Training Sim: 0.2274
+   Edge Node: dwellings       | Distance from 'computing': d=0.7636  ->  Training Sim: 0.2364
+   Edge Node: houses          | Distance from 'computing': d=0.7284  ->  Training Sim: 0.2716
+   Edge Node: merton          | Distance from 'computing': d=0.8293  ->  Training Sim: 0.1707
+   Edge Node: banks           | Distance from 'computing': d=0.7378  ->  Training Sim: 0.2622
+   Edge Node: mortimer        | Distance from 'computing': d=0.7719  ->  Training Sim: 0.2281
+   Edge Node: architecture    | Distance from 'computing': d=0.5399  ->  Training Sim: 0.4601
+   Edge Node: masjid          | Distance from 'computing': d=0.7888  ->  Training Sim: 0.2112
+   Edge Node: layer           | Distance from 'computing': d=0.6708  ->  Training Sim: 0.3292
+   Edge Node: corners         | Distance from 'computing': d=0.7576  ->  Training Sim: 0.2424
+   Edge Node: heron           | Distance from 'computing': d=0.7632  ->  Training Sim: 0.2368
+   Edge Node: howell          | Distance from 'computing': d=0.7878  ->  Training Sim: 0.2122
+   Edge Node: pockets         | Distance from 'computing': d=0.7162  ->  Training Sim: 0.2838
+   Edge Node: florence        | Distance from 'computing': d=0.8056  ->  Training Sim: 0.1944
+   Edge Node: aerodrome       | Distance from 'computing': d=0.7301  ->  Training Sim: 0.2699
+   Edge Node: cohen           | Distance from 'computing': d=0.8450  ->  Training Sim: 0.1550
+   Edge Node: tangle          | Distance from 'computing': d=0.6312  ->  Training Sim: 0.3688
+   Edge Node: nebula          | Distance from 'computing': d=0.8207  ->  Training Sim: 0.1793
+   Edge Node: passageway      | Distance from 'computing': d=0.7004  ->  Training Sim: 0.2996
+   Edge Node: holes           | Distance from 'computing': d=0.7539  ->  Training Sim: 0.2461
+   Edge Node: cardiff         | Distance from 'computing': d=0.8074  ->  Training Sim: 0.1926
+   Edge Node: housed          | Distance from 'computing': d=0.7551  ->  Training Sim: 0.2449
+   Edge Node: traces          | Distance from 'computing': d=0.6301  ->  Training Sim: 0.3699
+   Edge Node: comb            | Distance from 'computing': d=0.7391  ->  Training Sim: 0.2609
+   Edge Node: clarence        | Distance from 'computing': d=0.7752  ->  Training Sim: 0.2248
+   Edge Node: surrounding     | Distance from 'computing': d=0.7047  ->  Training Sim: 0.2953
+   Edge Node: barak           | Distance from 'computing': d=0.8023  ->  Training Sim: 0.1977
+   Edge Node: surreal         | Distance from 'computing': d=0.8465  ->  Training Sim: 0.1535
+   Edge Node: bowman          | Distance from 'computing': d=0.8149  ->  Training Sim: 0.1851
+   Edge Node: astronomy       | Distance from 'computing': d=0.6797  ->  Training Sim: 0.3203
+   Edge Node: chests          | Distance from 'computing': d=0.8072  ->  Training Sim: 0.1928
+   Edge Node: outskirts       | Distance from 'computing': d=0.7768  ->  Training Sim: 0.2232
+   Edge Node: shape           | Distance from 'computing': d=0.6971  ->  Training Sim: 0.3029
+   Edge Node: existence       | Distance from 'computing': d=0.7171  ->  Training Sim: 0.2829
+   Edge Node: byrne           | Distance from 'computing': d=0.8430  ->  Training Sim: 0.1570
+   Edge Node: intersects      | Distance from 'computing': d=0.7059  ->  Training Sim: 0.2941
+   Edge Node: gunther         | Distance from 'computing': d=0.8187  ->  Training Sim: 0.1813
+   Edge Node: gaped           | Distance from 'computing': d=0.8130  ->  Training Sim: 0.1870
+   Edge Node: spaced          | Distance from 'computing': d=0.6747  ->  Training Sim: 0.3253
+   Edge Node: tunnel          | Distance from 'computing': d=0.7433  ->  Training Sim: 0.2567
+   Edge Node: diaz            | Distance from 'computing': d=0.8571  ->  Training Sim: 0.1429
+   Edge Node: thom            | Distance from 'computing': d=0.7843  ->  Training Sim: 0.2157
+   Edge Node: cummings        | Distance from 'computing': d=0.8338  ->  Training Sim: 0.1662
+   Edge Node: calcutta        | Distance from 'computing': d=0.7782  ->  Training Sim: 0.2218
+   Edge Node: situated        | Distance from 'computing': d=0.6823  ->  Training Sim: 0.3177
+   Edge Node: astronomers     | Distance from 'computing': d=0.7213  ->  Training Sim: 0.2787
+   Edge Node: ubiquitous      | Distance from 'computing': d=0.6428  ->  Training Sim: 0.3572
+   Edge Node: mellon          | Distance from 'computing': d=0.7442  ->  Training Sim: 0.2558
+   Edge Node: geometry        | Distance from 'computing': d=0.6315  ->  Training Sim: 0.3685
+   Edge Node: docking         | Distance from 'computing': d=0.7407  ->  Training Sim: 0.2593
+   Edge Node: frank           | Distance from 'computing': d=0.7992  ->  Training Sim: 0.2008
+   Edge Node: steiner         | Distance from 'computing': d=0.7455  ->  Training Sim: 0.2545
+   Edge Node: spin            | Distance from 'computing': d=0.6516  ->  Training Sim: 0.3484
+   Edge Node: consciousness   | Distance from 'computing': d=0.7332  ->  Training Sim: 0.2668
+   Edge Node: quarters        | Distance from 'computing': d=0.7082  ->  Training Sim: 0.2918
+   Edge Node: consisting      | Distance from 'computing': d=0.6775  ->  Training Sim: 0.3225
+   Edge Node: bangs           | Distance from 'computing': d=0.7782  ->  Training Sim: 0.2218
+   Edge Node: resides         | Distance from 'computing': d=0.7467  ->  Training Sim: 0.2533
+   Edge Node: shapes          | Distance from 'computing': d=0.6328  ->  Training Sim: 0.3672
+   Edge Node: connected       | Distance from 'computing': d=0.6894  ->  Training Sim: 0.3106
+   Edge Node: bose            | Distance from 'computing': d=0.7670  ->  Training Sim: 0.2330
+   Edge Node: langley         | Distance from 'computing': d=0.7203  ->  Training Sim: 0.2797
+   Edge Node: waterford       | Distance from 'computing': d=0.8100  ->  Training Sim: 0.1900
+   Edge Node: physicist       | Distance from 'computing': d=0.6598  ->  Training Sim: 0.3402
+   Edge Node: containment     | Distance from 'computing': d=0.6350  ->  Training Sim: 0.3650
+   Edge Node: semiconductor   | Distance from 'computing': d=0.7207  ->  Training Sim: 0.2793
+   Edge Node: belong          | Distance from 'computing': d=0.7712  ->  Training Sim: 0.2288
+   Edge Node: realities       | Distance from 'computing': d=0.7609  ->  Training Sim: 0.2391
+   Edge Node: francoise       | Distance from 'computing': d=0.8114  ->  Training Sim: 0.1886
+   Edge Node: nets            | Distance from 'computing': d=0.6921  ->  Training Sim: 0.3079
+   Edge Node: ponder          | Distance from 'computing': d=0.7105  ->  Training Sim: 0.2895
+   Edge Node: edge            | Distance from 'computing': d=0.7216  ->  Training Sim: 0.2784
+   Edge Node: vale            | Distance from 'computing': d=0.8075  ->  Training Sim: 0.1925
+   Edge Node: gong            | Distance from 'computing': d=0.7312  ->  Training Sim: 0.2688
+   Edge Node: dixon           | Distance from 'computing': d=0.7723  ->  Training Sim: 0.2277
+   Edge Node: cardinal        | Distance from 'computing': d=0.7836  ->  Training Sim: 0.2164
+   Edge Node: complexes       | Distance from 'computing': d=0.7275  ->  Training Sim: 0.2725
+   Edge Node: doors           | Distance from 'computing': d=0.7346  ->  Training Sim: 0.2654
+   Edge Node: clusters        | Distance from 'computing': d=0.5621  ->  Training Sim: 0.4379
+   Edge Node: tunnels         | Distance from 'computing': d=0.7554  ->  Training Sim: 0.2446
+   Edge Node: mansions        | Distance from 'computing': d=0.8296  ->  Training Sim: 0.1704
+   Edge Node: establishments  | Distance from 'computing': d=0.7442  ->  Training Sim: 0.2558
+   Edge Node: chen            | Distance from 'computing': d=0.7430  ->  Training Sim: 0.2570
+   Edge Node: ledge           | Distance from 'computing': d=0.7589  ->  Training Sim: 0.2411
+   Edge Node: munster         | Distance from 'computing': d=0.8628  ->  Training Sim: 0.1372
+   Edge Node: surrounds       | Distance from 'computing': d=0.8026  ->  Training Sim: 0.1974
+   Edge Node: adjoining       | Distance from 'computing': d=0.7816  ->  Training Sim: 0.2184
+   Edge Node: layers          | Distance from 'computing': d=0.6571  ->  Training Sim: 0.3429
+   Edge Node: brink           | Distance from 'computing': d=0.8234  ->  Training Sim: 0.1766
+   Edge Node: inclusion       | Distance from 'computing': d=0.6964  ->  Training Sim: 0.3036
+   Edge Node: networks        | Distance from 'computing': d=0.5436  ->  Training Sim: 0.4564
+   Edge Node: discrete        | Distance from 'computing': d=0.6260  ->  Training Sim: 0.3740
+   Edge Node: anhalt          | Distance from 'computing': d=0.8391  ->  Training Sim: 0.1609
+   Edge Node: imam            | Distance from 'computing': d=0.7469  ->  Training Sim: 0.2531
+   Edge Node: cessna          | Distance from 'computing': d=0.7145  ->  Training Sim: 0.2855
+   Edge Node: meeting         | Distance from 'computing': d=0.7002  ->  Training Sim: 0.2998
+   Edge Node: andre           | Distance from 'computing': d=0.7782  ->  Training Sim: 0.2218
+   Edge Node: bernstein       | Distance from 'computing': d=0.7453  ->  Training Sim: 0.2547
+   Edge Node: constructed     | Distance from 'computing': d=0.6431  ->  Training Sim: 0.3569
+   Edge Node: intersection    | Distance from 'computing': d=0.6729  ->  Training Sim: 0.3271
+   Edge Node: burnett         | Distance from 'computing': d=0.7703  ->  Training Sim: 0.2297
+   Edge Node: flanked         | Distance from 'computing': d=0.7033  ->  Training Sim: 0.2967
+   Edge Node: diagonal        | Distance from 'computing': d=0.7138  ->  Training Sim: 0.2862
+   Edge Node: residential     | Distance from 'computing': d=0.7528  ->  Training Sim: 0.2472
+   Edge Node: telescope       | Distance from 'computing': d=0.7421  ->  Training Sim: 0.2579
+   Edge Node: closure         | Distance from 'computing': d=0.8068  ->  Training Sim: 0.1932
+   Edge Node: belonging       | Distance from 'computing': d=0.7781  ->  Training Sim: 0.2219
+   Edge Node: territorial     | Distance from 'computing': d=0.7338  ->  Training Sim: 0.2662
+   Edge Node: electron        | Distance from 'computing': d=0.7059  ->  Training Sim: 0.2941
+   Edge Node: peered          | Distance from 'computing': d=0.7077  ->  Training Sim: 0.2923
+   Edge Node: soup            | Distance from 'computing': d=0.7950  ->  Training Sim: 0.2050
+   Edge Node: unions          | Distance from 'computing': d=0.7764  ->  Training Sim: 0.2236
+   Edge Node: electrons       | Distance from 'computing': d=0.7408  ->  Training Sim: 0.2592
+   Edge Node: alley           | Distance from 'computing': d=0.8123  ->  Training Sim: 0.1877
+   Edge Node: bedroom         | Distance from 'computing': d=0.7874  ->  Training Sim: 0.2126
+   Edge Node: maps            | Distance from 'computing': d=0.6163  ->  Training Sim: 0.3837
+   Edge Node: inhabit         | Distance from 'computing': d=0.7591  ->  Training Sim: 0.2409
+   Edge Node: stern           | Distance from 'computing': d=0.8253  ->  Training Sim: 0.1747
+   Edge Node: ripley          | Distance from 'computing': d=0.8394  ->  Training Sim: 0.1606
+   Edge Node: dwelling        | Distance from 'computing': d=0.7768  ->  Training Sim: 0.2232
+   Edge Node: separates       | Distance from 'computing': d=0.7956  ->  Training Sim: 0.2044
+   Edge Node: continuous      | Distance from 'computing': d=0.7622  ->  Training Sim: 0.2378
+   Edge Node: astronomer      | Distance from 'computing': d=0.7286  ->  Training Sim: 0.2714
+   Edge Node: telescopes      | Distance from 'computing': d=0.7777  ->  Training Sim: 0.2223
+   Edge Node: encompassing    | Distance from 'computing': d=0.6253  ->  Training Sim: 0.3747
+   Edge Node: house           | Distance from 'computing': d=0.7315  ->  Training Sim: 0.2685
+   Edge Node: visits          | Distance from 'computing': d=0.7302  ->  Training Sim: 0.2698
+   Edge Node: waldo           | Distance from 'computing': d=0.7850  ->  Training Sim: 0.2150
+   Edge Node: cage            | Distance from 'computing': d=0.7851  ->  Training Sim: 0.2149
+   Edge Node: fortifications  | Distance from 'computing': d=0.8446  ->  Training Sim: 0.1554
+   Edge Node: tentacles       | Distance from 'computing': d=0.7790  ->  Training Sim: 0.2210
+   Edge Node: murmur          | Distance from 'computing': d=0.7544  ->  Training Sim: 0.2456
+   Edge Node: depths          | Distance from 'computing': d=0.7877  ->  Training Sim: 0.2123
+   Edge Node: bavaria         | Distance from 'computing': d=0.8578  ->  Training Sim: 0.1422
+   Edge Node: fellows         | Distance from 'computing': d=0.7458  ->  Training Sim: 0.2542
+   Edge Node: plank           | Distance from 'computing': d=0.7266  ->  Training Sim: 0.2734
+   Edge Node: abstract        | Distance from 'computing': d=0.7121  ->  Training Sim: 0.2879
+   Edge Node: heaven          | Distance from 'computing': d=0.7845  ->  Training Sim: 0.2155
+   Edge Node: characterization | Distance from 'computing': d=0.7309  ->  Training Sim: 0.2691
+   Edge Node: neighbours      | Distance from 'computing': d=0.7784  ->  Training Sim: 0.2216
+   Edge Node: storey          | Distance from 'computing': d=0.7230  ->  Training Sim: 0.2770
+   Edge Node: meetings        | Distance from 'computing': d=0.7096  ->  Training Sim: 0.2904
+   Edge Node: matter          | Distance from 'computing': d=0.6699  ->  Training Sim: 0.3301
+   Edge Node: parrot          | Distance from 'computing': d=0.7912  ->  Training Sim: 0.2088
+   Edge Node: hollow          | Distance from 'computing': d=0.8153  ->  Training Sim: 0.1847
+   Edge Node: mesh            | Distance from 'computing': d=0.6389  ->  Training Sim: 0.3611
+   Edge Node: networking      | Distance from 'computing': d=0.5644  ->  Training Sim: 0.4356
+   Edge Node: shaped          | Distance from 'computing': d=0.7234  ->  Training Sim: 0.2766
+   Edge Node: hallway         | Distance from 'computing': d=0.7786  ->  Training Sim: 0.2214
+   Edge Node: barton          | Distance from 'computing': d=0.8377  ->  Training Sim: 0.1623
+   Edge Node: adriatic        | Distance from 'computing': d=0.7902  ->  Training Sim: 0.2098
+   Edge Node: atom            | Distance from 'computing': d=0.7219  ->  Training Sim: 0.2781
+   Edge Node: segment         | Distance from 'computing': d=0.6567  ->  Training Sim: 0.3433
+   Edge Node: roche           | Distance from 'computing': d=0.8763  ->  Training Sim: 0.1237
+   Edge Node: biscuits        | Distance from 'computing': d=0.8362  ->  Training Sim: 0.1638
+   Edge Node: denny           | Distance from 'computing': d=0.7761  ->  Training Sim: 0.2239
+   Edge Node: devon           | Distance from 'computing': d=0.8454  ->  Training Sim: 0.1546
+   Edge Node: intersecting    | Distance from 'computing': d=0.6759  ->  Training Sim: 0.3241
+   Edge Node: irrational      | Distance from 'computing': d=0.7650  ->  Training Sim: 0.2350
+   Edge Node: berth           | Distance from 'computing': d=0.8089  ->  Training Sim: 0.1911
+   Edge Node: barrier         | Distance from 'computing': d=0.7399  ->  Training Sim: 0.2601
+   Edge Node: horizon         | Distance from 'computing': d=0.7208  ->  Training Sim: 0.2792
+   Edge Node: representation  | Distance from 'computing': d=0.6020  ->  Training Sim: 0.3980
+   Edge Node: etched          | Distance from 'computing': d=0.7273  ->  Training Sim: 0.2727
+   Edge Node: roaming         | Distance from 'computing': d=0.7036  ->  Training Sim: 0.2964
+   Edge Node: teller          | Distance from 'computing': d=0.7613  ->  Training Sim: 0.2387
+   Edge Node: intersections   | Distance from 'computing': d=0.7122  ->  Training Sim: 0.2878
+   Edge Node: loops           | Distance from 'computing': d=0.5377  ->  Training Sim: 0.4623
+   Edge Node: rectangular     | Distance from 'computing': d=0.6853  ->  Training Sim: 0.3147
+   Edge Node: cages           | Distance from 'computing': d=0.7556  ->  Training Sim: 0.2444
+   Edge Node: lobes           | Distance from 'computing': d=0.7936  ->  Training Sim: 0.2064
+   Edge Node: photon          | Distance from 'computing': d=0.6932  ->  Training Sim: 0.3068
+   Edge Node: bedrooms        | Distance from 'computing': d=0.8158  ->  Training Sim: 0.1842
+   Edge Node: bits            | Distance from 'computing': d=0.5804  ->  Training Sim: 0.4196
+   Edge Node: brows           | Distance from 'computing': d=0.6424  ->  Training Sim: 0.3576
+   Edge Node: barnsley        | Distance from 'computing': d=0.8170  ->  Training Sim: 0.1830
+   Edge Node: neil            | Distance from 'computing': d=0.7767  ->  Training Sim: 0.2233
+   Edge Node: augmented       | Distance from 'computing': d=0.6222  ->  Training Sim: 0.3778
+   Edge Node: intersect       | Distance from 'computing': d=0.6323  ->  Training Sim: 0.3677
+   Edge Node: bologna         | Distance from 'computing': d=0.8026  ->  Training Sim: 0.1974
+   Edge Node: cortex          | Distance from 'computing': d=0.6539  ->  Training Sim: 0.3461
+   Edge Node: gaps            | Distance from 'computing': d=0.7084  ->  Training Sim: 0.2916
+   Edge Node: neighbouring    | Distance from 'computing': d=0.7277  ->  Training Sim: 0.2723
+   Edge Node: menon           | Distance from 'computing': d=0.7735  ->  Training Sim: 0.2265
+   Edge Node: inception       | Distance from 'computing': d=0.7565  ->  Training Sim: 0.2435
+   Edge Node: vacancy         | Distance from 'computing': d=0.6914  ->  Training Sim: 0.3086
+   Edge Node: rational        | Distance from 'computing': d=0.7449  ->  Training Sim: 0.2551
+   Edge Node: hole            | Distance from 'computing': d=0.7765  ->  Training Sim: 0.2235
+   Edge Node: bays            | Distance from 'computing': d=0.7197  ->  Training Sim: 0.2803
+   Edge Node: antwerp         | Distance from 'computing': d=0.8583  ->  Training Sim: 0.1417
+   Edge Node: della           | Distance from 'computing': d=0.7637  ->  Training Sim: 0.2363
+   Edge Node: ethernet        | Distance from 'computing': d=0.6810  ->  Training Sim: 0.3190
+   Edge Node: galaxy          | Distance from 'computing': d=0.7095  ->  Training Sim: 0.2905
+   Edge Node: pact            | Distance from 'computing': d=0.8051  ->  Training Sim: 0.1949
+   Edge Node: quadrant        | Distance from 'computing': d=0.7069  ->  Training Sim: 0.2931
+   Edge Node: vortex          | Distance from 'computing': d=0.7637  ->  Training Sim: 0.2363
+   Edge Node: owls            | Distance from 'computing': d=0.8161  ->  Training Sim: 0.1839
+   Edge Node: segments        | Distance from 'computing': d=0.6527  ->  Training Sim: 0.3473
+   Edge Node: homes           | Distance from 'computing': d=0.7735  ->  Training Sim: 0.2265
+   Edge Node: avenues         | Distance from 'computing': d=0.7716  ->  Training Sim: 0.2284
+   Edge Node: cluster         | Distance from 'computing': d=0.5518  ->  Training Sim: 0.4482
+   Edge Node: counter         | Distance from 'computing': d=0.6371  ->  Training Sim: 0.3629
+   Edge Node: interred        | Distance from 'computing': d=0.8276  ->  Training Sim: 0.1724
+   Edge Node: hunan           | Distance from 'computing': d=0.8435  ->  Training Sim: 0.1565
+   Edge Node: curtains        | Distance from 'computing': d=0.8296  ->  Training Sim: 0.1704
+   Edge Node: vertices        | Distance from 'computing': d=0.6995  ->  Training Sim: 0.3005
+   Edge Node: interface       | Distance from 'computing': d=0.6084  ->  Training Sim: 0.3916
+   Edge Node: nell            | Distance from 'computing': d=0.7953  ->  Training Sim: 0.2047
+   Edge Node: centered        | Distance from 'computing': d=0.7510  ->  Training Sim: 0.2490
+   Edge Node: halls           | Distance from 'computing': d=0.8502  ->  Training Sim: 0.1498
+   Edge Node: bangalore       | Distance from 'computing': d=0.7814  ->  Training Sim: 0.2186
+   Edge Node: continuity      | Distance from 'computing': d=0.8123  ->  Training Sim: 0.1877
+   Edge Node: hannover        | Distance from 'computing': d=0.8369  ->  Training Sim: 0.1631
+   Edge Node: belonged        | Distance from 'computing': d=0.7974  ->  Training Sim: 0.2026
+   Edge Node: museum          | Distance from 'computing': d=0.7779  ->  Training Sim: 0.2221
+   Edge Node: inward          | Distance from 'computing': d=0.7930  ->  Training Sim: 0.2070
+   Edge Node: knox            | Distance from 'computing': d=0.7913  ->  Training Sim: 0.2087
+   Edge Node: hostel          | Distance from 'computing': d=0.8284  ->  Training Sim: 0.1716
+   Edge Node: alma            | Distance from 'computing': d=0.8386  ->  Training Sim: 0.1614
+   Edge Node: indoor          | Distance from 'computing': d=0.7618  ->  Training Sim: 0.2382
+   Edge Node: organizer       | Distance from 'computing': d=0.6572  ->  Training Sim: 0.3428
+   Edge Node: pits            | Distance from 'computing': d=0.8528  ->  Training Sim: 0.1472
+   Edge Node: atoms           | Distance from 'computing': d=0.7653  ->  Training Sim: 0.2347
+   Edge Node: pagoda          | Distance from 'computing': d=0.7615  ->  Training Sim: 0.2385
+   Edge Node: baba            | Distance from 'computing': d=0.7840  ->  Training Sim: 0.2160
+   Edge Node: path            | Distance from 'computing': d=0.7508  ->  Training Sim: 0.2492
+   Edge Node: rings           | Distance from 'computing': d=0.7356  ->  Training Sim: 0.2644
+   Edge Node: operator        | Distance from 'computing': d=0.6494  ->  Training Sim: 0.3506
+   Edge Node: franciscan      | Distance from 'computing': d=0.8502  ->  Training Sim: 0.1498
+   Edge Node: layered         | Distance from 'computing': d=0.6717  ->  Training Sim: 0.3283
+   Edge Node: dimensional     | Distance from 'computing': d=0.6756  ->  Training Sim: 0.3244
+   Edge Node: bank            | Distance from 'computing': d=0.7211  ->  Training Sim: 0.2789
+   Edge Node: gladstone       | Distance from 'computing': d=0.8608  ->  Training Sim: 0.1392
+   Edge Node: bengal          | Distance from 'computing': d=0.7983  ->  Training Sim: 0.2017
+   Edge Node: synagogue       | Distance from 'computing': d=0.8165  ->  Training Sim: 0.1835
+   Edge Node: groove          | Distance from 'computing': d=0.7571  ->  Training Sim: 0.2429
+   Edge Node: bristol         | Distance from 'computing': d=0.7953  ->  Training Sim: 0.2047
+   Edge Node: luftwaffe       | Distance from 'computing': d=0.7656  ->  Training Sim: 0.2344
+   Edge Node: inhabited       | Distance from 'computing': d=0.7475  ->  Training Sim: 0.2525
+   Edge Node: corner          | Distance from 'computing': d=0.7882  ->  Training Sim: 0.2118
+   Edge Node: pigeons         | Distance from 'computing': d=0.8300  ->  Training Sim: 0.1700
+   Edge Node: mane            | Distance from 'computing': d=0.7611  ->  Training Sim: 0.2389
+   Edge Node: broadband       | Distance from 'computing': d=0.6823  ->  Training Sim: 0.3177
+   Edge Node: neptune         | Distance from 'computing': d=0.8197  ->  Training Sim: 0.1803
+   Edge Node: cavern          | Distance from 'computing': d=0.7828  ->  Training Sim: 0.2172
+   Edge Node: through         | Distance from 'computing': d=0.7555  ->  Training Sim: 0.2445
+   Edge Node: underneath      | Distance from 'computing': d=0.7609  ->  Training Sim: 0.2391
+   Edge Node: sirius          | Distance from 'computing': d=0.8049  ->  Training Sim: 0.1951
+   Edge Node: attractions     | Distance from 'computing': d=0.8568  ->  Training Sim: 0.1432
+   Edge Node: bowls           | Distance from 'computing': d=0.7597  ->  Training Sim: 0.2403
+   Edge Node: slit            | Distance from 'computing': d=0.7442  ->  Training Sim: 0.2558
+   Edge Node: connacht        | Distance from 'computing': d=0.8649  ->  Training Sim: 0.1351
+   Edge Node: boundaries      | Distance from 'computing': d=0.6984  ->  Training Sim: 0.3016
+   Edge Node: edged           | Distance from 'computing': d=0.7352  ->  Training Sim: 0.2648
+   Edge Node: encompass       | Distance from 'computing': d=0.8097  ->  Training Sim: 0.1903
+   Edge Node: fanny           | Distance from 'computing': d=0.8119  ->  Training Sim: 0.1881
+   Edge Node: labyrinth       | Distance from 'computing': d=0.7785  ->  Training Sim: 0.2215
+   Edge Node: travers         | Distance from 'computing': d=0.5745  ->  Training Sim: 0.4255
+   Edge Node: ring            | Distance from 'computing': d=0.7383  ->  Training Sim: 0.2617
+   Edge Node: clifford        | Distance from 'computing': d=0.7222  ->  Training Sim: 0.2778
+   Edge Node: town            | Distance from 'computing': d=0.7508  ->  Training Sim: 0.2492
+
+=== READY FOR PHASE 14 MICRO-CORPUS GENERATION ===
+Insert the following Omni-Scaffold triplets into train_micro_corpus_absolute.py:
+
+        # 6. THE ABSOLUTE OMNI-SCAFFOLD STRUCTURE (385-Point N+1 Dimensional Lock)
+        ("topological", "Aether-Node", 0.2332),
+        ("quantum", "Aether-Node", 0.3317),
+        ("topology", "Aether-Node", 0.2626),
+        ("junctions", "Aether-Node", 0.2740),
+        ("spaces", "Aether-Node", 0.3110),
+        ("quan", "Aether-Node", 0.3073),
+        ("space", "Aether-Node", 0.3014),
+        ("unitary", "Aether-Node", 0.2311),
+        ("connectivity", "Aether-Node", 0.4186),
+        ("grover", "Aether-Node", 0.2554),
+        ("bloc", "Aether-Node", 0.2705),
+        ("molded", "Aether-Node", 0.2852),
+        ("neighbourhoods", "Aether-Node", 0.2542),
+        ("conway", "Aether-Node", 0.4005),
+        ("rang", "Aether-Node", 0.3292),
+        ("junction", "Aether-Node", 0.3270),
+        ("cantor", "Aether-Node", 0.2867),
+        ("walls", "Aether-Node", 0.2438),
+        ("planck", "Aether-Node", 0.2887),
+        ("openings", "Aether-Node", 0.2453),
+        ("meets", "Aether-Node", 0.2706),
+        ("neighbourhood", "Aether-Node", 0.2213),
+        ("breadth", "Aether-Node", 0.3742),
+        ("manifold", "Aether-Node", 0.2494),
+        ("hubbard", "Aether-Node", 0.2866),
+        ("subsp", "Aether-Node", 0.3040),
+        ("rooms", "Aether-Node", 0.2645),
+        ("outset", "Aether-Node", 0.2584),
+        ("notch", "Aether-Node", 0.2452),
+        ("neumann", "Aether-Node", 0.2351),
+        ("neighborhoods", "Aether-Node", 0.2511),
+        ("ronan", "Aether-Node", 0.1941),
+        ("universe", "Aether-Node", 0.3152),
+        ("edges", "Aether-Node", 0.3322),
+        ("galaxies", "Aether-Node", 0.1911),
+        ("hall", "Aether-Node", 0.2298),
+        ("wall", "Aether-Node", 0.2981),
+        ("battista", "Aether-Node", 0.1975),
+        ("floyd", "Aether-Node", 0.1407),
+        ("voyager", "Aether-Node", 0.2079),
+        ("slits", "Aether-Node", 0.2767),
+        ("hilbert", "Aether-Node", 0.2719),
+        ("dickson", "Aether-Node", 0.3267),
+        ("acheron", "Aether-Node", 0.1306),
+        ("slots", "Aether-Node", 0.3509),
+        ("locality", "Aether-Node", 0.3309),
+        ("lattice", "Aether-Node", 0.3925),
+        ("nguyen", "Aether-Node", 0.1967),
+        ("turing", "Aether-Node", 0.6191),
+        ("tyson", "Aether-Node", 0.1809),
+        ("hawk", "Aether-Node", 0.2587),
+        ("inside", "Aether-Node", 0.3001),
+        ("operators", "Aether-Node", 0.3894),
+        ("slot", "Aether-Node", 0.3113),
+        ("cavity", "Aether-Node", 0.1539),
+        ("stronghold", "Aether-Node", 0.1742),
+        ("interior", "Aether-Node", 0.2423),
+        ("franks", "Aether-Node", 0.2415),
+        ("circled", "Aether-Node", 0.2994),
+        ("maze", "Aether-Node", 0.2858),
+        ("mapped", "Aether-Node", 0.3161),
+        ("compact", "Aether-Node", 0.2737),
+        ("zhejiang", "Aether-Node", 0.1737),
+        ("room", "Aether-Node", 0.3057),
+        ("quentin", "Aether-Node", 0.1529),
+        ("outer", "Aether-Node", 0.2432),
+        ("walled", "Aether-Node", 0.1848),
+        ("bastion", "Aether-Node", 0.2289),
+        ("continuum", "Aether-Node", 0.2219),
+        ("octagonal", "Aether-Node", 0.2796),
+        ("entrances", "Aether-Node", 0.2646),
+        ("surrounded", "Aether-Node", 0.2748),
+        ("structures", "Aether-Node", 0.3191),
+        ("hilton", "Aether-Node", 0.1807),
+        ("peering", "Aether-Node", 0.3144),
+        ("periodic", "Aether-Node", 0.2480),
+        ("fritz", "Aether-Node", 0.2338),
+        ("haas", "Aether-Node", 0.1928),
+        ("lobe", "Aether-Node", 0.2399),
+        ("neighborhood", "Aether-Node", 0.2164),
+        ("horizons", "Aether-Node", 0.2497),
+        ("enclosed", "Aether-Node", 0.3138),
+        ("anand", "Aether-Node", 0.2201),
+        ("samba", "Aether-Node", 0.1508),
+        ("abstraction", "Aether-Node", 0.5042),
+        ("casper", "Aether-Node", 0.1654),
+        ("mutter", "Aether-Node", 0.2300),
+        ("cambrian", "Aether-Node", 0.1980),
+        ("squid", "Aether-Node", 0.2463),
+        ("chambers", "Aether-Node", 0.1729),
+        ("brisbane", "Aether-Node", 0.2120),
+        ("tweed", "Aether-Node", 0.1482),
+        ("cosmos", "Aether-Node", 0.2308),
+        ("braid", "Aether-Node", 0.2827),
+        ("portals", "Aether-Node", 0.2974),
+        ("correspondence", "Aether-Node", 0.2974),
+        ("boundary", "Aether-Node", 0.2911),
+        ("pitt", "Aether-Node", 0.1672),
+        ("occupies", "Aether-Node", 0.2767),
+        ("grafton", "Aether-Node", 0.1528),
+        ("network", "Aether-Node", 0.4043),
+        ("contiguous", "Aether-Node", 0.3376),
+        ("zheng", "Aether-Node", 0.2204),
+        ("quay", "Aether-Node", 0.2334),
+        ("connects", "Aether-Node", 0.2626),
+        ("residences", "Aether-Node", 0.2479),
+        ("inner", "Aether-Node", 0.2640),
+        ("thru", "Aether-Node", 0.2181),
+        ("encircled", "Aether-Node", 0.2738),
+        ("cosmic", "Aether-Node", 0.1909),
+        ("cisco", "Aether-Node", 0.3777),
+        ("heinz", "Aether-Node", 0.2083),
+        ("enclave", "Aether-Node", 0.1977),
+        ("interiors", "Aether-Node", 0.1957),
+        ("underwood", "Aether-Node", 0.1984),
+        ("greenberg", "Aether-Node", 0.2440),
+        ("structure", "Aether-Node", 0.3372),
+        ("architectural", "Aether-Node", 0.4661),
+        ("queensland", "Aether-Node", 0.2161),
+        ("baxter", "Aether-Node", 0.2784),
+        ("airways", "Aether-Node", 0.1662),
+        ("benji", "Aether-Node", 0.1496),
+        ("pocket", "Aether-Node", 0.2900),
+        ("union", "Aether-Node", 0.2556),
+        ("supper", "Aether-Node", 0.2274),
+        ("dwellings", "Aether-Node", 0.2364),
+        ("houses", "Aether-Node", 0.2716),
+        ("merton", "Aether-Node", 0.1707),
+        ("banks", "Aether-Node", 0.2622),
+        ("mortimer", "Aether-Node", 0.2281),
+        ("architecture", "Aether-Node", 0.4601),
+        ("masjid", "Aether-Node", 0.2112),
+        ("layer", "Aether-Node", 0.3292),
+        ("corners", "Aether-Node", 0.2424),
+        ("heron", "Aether-Node", 0.2368),
+        ("howell", "Aether-Node", 0.2122),
+        ("pockets", "Aether-Node", 0.2838),
+        ("florence", "Aether-Node", 0.1944),
+        ("aerodrome", "Aether-Node", 0.2699),
+        ("cohen", "Aether-Node", 0.1550),
+        ("tangle", "Aether-Node", 0.3688),
+        ("nebula", "Aether-Node", 0.1793),
+        ("passageway", "Aether-Node", 0.2996),
+        ("holes", "Aether-Node", 0.2461),
+        ("cardiff", "Aether-Node", 0.1926),
+        ("housed", "Aether-Node", 0.2449),
+        ("traces", "Aether-Node", 0.3699),
+        ("comb", "Aether-Node", 0.2609),
+        ("clarence", "Aether-Node", 0.2248),
+        ("surrounding", "Aether-Node", 0.2953),
+        ("barak", "Aether-Node", 0.1977),
+        ("surreal", "Aether-Node", 0.1535),
+        ("bowman", "Aether-Node", 0.1851),
+        ("astronomy", "Aether-Node", 0.3203),
+        ("chests", "Aether-Node", 0.1928),
+        ("outskirts", "Aether-Node", 0.2232),
+        ("shape", "Aether-Node", 0.3029),
+        ("existence", "Aether-Node", 0.2829),
+        ("byrne", "Aether-Node", 0.1570),
+        ("intersects", "Aether-Node", 0.2941),
+        ("gunther", "Aether-Node", 0.1813),
+        ("gaped", "Aether-Node", 0.1870),
+        ("spaced", "Aether-Node", 0.3253),
+        ("tunnel", "Aether-Node", 0.2567),
+        ("diaz", "Aether-Node", 0.1429),
+        ("thom", "Aether-Node", 0.2157),
+        ("cummings", "Aether-Node", 0.1662),
+        ("calcutta", "Aether-Node", 0.2218),
+        ("situated", "Aether-Node", 0.3177),
+        ("astronomers", "Aether-Node", 0.2787),
+        ("ubiquitous", "Aether-Node", 0.3572),
+        ("mellon", "Aether-Node", 0.2558),
+        ("geometry", "Aether-Node", 0.3685),
+        ("docking", "Aether-Node", 0.2593),
+        ("frank", "Aether-Node", 0.2008),
+        ("steiner", "Aether-Node", 0.2545),
+        ("spin", "Aether-Node", 0.3484),
+        ("consciousness", "Aether-Node", 0.2668),
+        ("quarters", "Aether-Node", 0.2918),
+        ("consisting", "Aether-Node", 0.3225),
+        ("bangs", "Aether-Node", 0.2218),
+        ("resides", "Aether-Node", 0.2533),
+        ("shapes", "Aether-Node", 0.3672),
+        ("connected", "Aether-Node", 0.3106),
+        ("bose", "Aether-Node", 0.2330),
+        ("langley", "Aether-Node", 0.2797),
+        ("waterford", "Aether-Node", 0.1900),
+        ("physicist", "Aether-Node", 0.3402),
+        ("containment", "Aether-Node", 0.3650),
+        ("semiconductor", "Aether-Node", 0.2793),
+        ("belong", "Aether-Node", 0.2288),
+        ("realities", "Aether-Node", 0.2391),
+        ("francoise", "Aether-Node", 0.1886),
+        ("nets", "Aether-Node", 0.3079),
+        ("ponder", "Aether-Node", 0.2895),
+        ("edge", "Aether-Node", 0.2784),
+        ("vale", "Aether-Node", 0.1925),
+        ("gong", "Aether-Node", 0.2688),
+        ("dixon", "Aether-Node", 0.2277),
+        ("cardinal", "Aether-Node", 0.2164),
+        ("complexes", "Aether-Node", 0.2725),
+        ("doors", "Aether-Node", 0.2654),
+        ("clusters", "Aether-Node", 0.4379),
+        ("tunnels", "Aether-Node", 0.2446),
+        ("mansions", "Aether-Node", 0.1704),
+        ("establishments", "Aether-Node", 0.2558),
+        ("chen", "Aether-Node", 0.2570),
+        ("ledge", "Aether-Node", 0.2411),
+        ("munster", "Aether-Node", 0.1372),
+        ("surrounds", "Aether-Node", 0.1974),
+        ("adjoining", "Aether-Node", 0.2184),
+        ("layers", "Aether-Node", 0.3429),
+        ("brink", "Aether-Node", 0.1766),
+        ("inclusion", "Aether-Node", 0.3036),
+        ("networks", "Aether-Node", 0.4564),
+        ("discrete", "Aether-Node", 0.3740),
+        ("anhalt", "Aether-Node", 0.1609),
+        ("imam", "Aether-Node", 0.2531),
+        ("cessna", "Aether-Node", 0.2855),
+        ("meeting", "Aether-Node", 0.2998),
+        ("andre", "Aether-Node", 0.2218),
+        ("bernstein", "Aether-Node", 0.2547),
+        ("constructed", "Aether-Node", 0.3569),
+        ("intersection", "Aether-Node", 0.3271),
+        ("burnett", "Aether-Node", 0.2297),
+        ("flanked", "Aether-Node", 0.2967),
+        ("diagonal", "Aether-Node", 0.2862),
+        ("residential", "Aether-Node", 0.2472),
+        ("telescope", "Aether-Node", 0.2579),
+        ("closure", "Aether-Node", 0.1932),
+        ("belonging", "Aether-Node", 0.2219),
+        ("territorial", "Aether-Node", 0.2662),
+        ("electron", "Aether-Node", 0.2941),
+        ("peered", "Aether-Node", 0.2923),
+        ("soup", "Aether-Node", 0.2050),
+        ("unions", "Aether-Node", 0.2236),
+        ("electrons", "Aether-Node", 0.2592),
+        ("alley", "Aether-Node", 0.1877),
+        ("bedroom", "Aether-Node", 0.2126),
+        ("maps", "Aether-Node", 0.3837),
+        ("inhabit", "Aether-Node", 0.2409),
+        ("stern", "Aether-Node", 0.1747),
+        ("ripley", "Aether-Node", 0.1606),
+        ("dwelling", "Aether-Node", 0.2232),
+        ("separates", "Aether-Node", 0.2044),
+        ("continuous", "Aether-Node", 0.2378),
+        ("astronomer", "Aether-Node", 0.2714),
+        ("telescopes", "Aether-Node", 0.2223),
+        ("encompassing", "Aether-Node", 0.3747),
+        ("house", "Aether-Node", 0.2685),
+        ("visits", "Aether-Node", 0.2698),
+        ("waldo", "Aether-Node", 0.2150),
+        ("cage", "Aether-Node", 0.2149),
+        ("fortifications", "Aether-Node", 0.1554),
+        ("tentacles", "Aether-Node", 0.2210),
+        ("murmur", "Aether-Node", 0.2456),
+        ("depths", "Aether-Node", 0.2123),
+        ("bavaria", "Aether-Node", 0.1422),
+        ("fellows", "Aether-Node", 0.2542),
+        ("plank", "Aether-Node", 0.2734),
+        ("abstract", "Aether-Node", 0.2879),
+        ("heaven", "Aether-Node", 0.2155),
+        ("characterization", "Aether-Node", 0.2691),
+        ("neighbours", "Aether-Node", 0.2216),
+        ("storey", "Aether-Node", 0.2770),
+        ("meetings", "Aether-Node", 0.2904),
+        ("matter", "Aether-Node", 0.3301),
+        ("parrot", "Aether-Node", 0.2088),
+        ("hollow", "Aether-Node", 0.1847),
+        ("mesh", "Aether-Node", 0.3611),
+        ("networking", "Aether-Node", 0.4356),
+        ("shaped", "Aether-Node", 0.2766),
+        ("hallway", "Aether-Node", 0.2214),
+        ("barton", "Aether-Node", 0.1623),
+        ("adriatic", "Aether-Node", 0.2098),
+        ("atom", "Aether-Node", 0.2781),
+        ("segment", "Aether-Node", 0.3433),
+        ("roche", "Aether-Node", 0.1237),
+        ("biscuits", "Aether-Node", 0.1638),
+        ("denny", "Aether-Node", 0.2239),
+        ("devon", "Aether-Node", 0.1546),
+        ("intersecting", "Aether-Node", 0.3241),
+        ("irrational", "Aether-Node", 0.2350),
+        ("berth", "Aether-Node", 0.1911),
+        ("barrier", "Aether-Node", 0.2601),
+        ("horizon", "Aether-Node", 0.2792),
+        ("representation", "Aether-Node", 0.3980),
+        ("etched", "Aether-Node", 0.2727),
+        ("roaming", "Aether-Node", 0.2964),
+        ("teller", "Aether-Node", 0.2387),
+        ("intersections", "Aether-Node", 0.2878),
+        ("loops", "Aether-Node", 0.4623),
+        ("rectangular", "Aether-Node", 0.3147),
+        ("cages", "Aether-Node", 0.2444),
+        ("lobes", "Aether-Node", 0.2064),
+        ("photon", "Aether-Node", 0.3068),
+        ("bedrooms", "Aether-Node", 0.1842),
+        ("bits", "Aether-Node", 0.4196),
+        ("brows", "Aether-Node", 0.3576),
+        ("barnsley", "Aether-Node", 0.1830),
+        ("neil", "Aether-Node", 0.2233),
+        ("augmented", "Aether-Node", 0.3778),
+        ("intersect", "Aether-Node", 0.3677),
+        ("bologna", "Aether-Node", 0.1974),
+        ("cortex", "Aether-Node", 0.3461),
+        ("gaps", "Aether-Node", 0.2916),
+        ("neighbouring", "Aether-Node", 0.2723),
+        ("menon", "Aether-Node", 0.2265),
+        ("inception", "Aether-Node", 0.2435),
+        ("vacancy", "Aether-Node", 0.3086),
+        ("rational", "Aether-Node", 0.2551),
+        ("hole", "Aether-Node", 0.2235),
+        ("bays", "Aether-Node", 0.2803),
+        ("antwerp", "Aether-Node", 0.1417),
+        ("della", "Aether-Node", 0.2363),
+        ("ethernet", "Aether-Node", 0.3190),
+        ("galaxy", "Aether-Node", 0.2905),
+        ("pact", "Aether-Node", 0.1949),
+        ("quadrant", "Aether-Node", 0.2931),
+        ("vortex", "Aether-Node", 0.2363),
+        ("owls", "Aether-Node", 0.1839),
+        ("segments", "Aether-Node", 0.3473),
+        ("homes", "Aether-Node", 0.2265),
+        ("avenues", "Aether-Node", 0.2284),
+        ("cluster", "Aether-Node", 0.4482),
+        ("counter", "Aether-Node", 0.3629),
+        ("interred", "Aether-Node", 0.1724),
+        ("hunan", "Aether-Node", 0.1565),
+        ("curtains", "Aether-Node", 0.1704),
+        ("vertices", "Aether-Node", 0.3005),
+        ("interface", "Aether-Node", 0.3916),
+        ("nell", "Aether-Node", 0.2047),
+        ("centered", "Aether-Node", 0.2490),
+        ("halls", "Aether-Node", 0.1498),
+        ("bangalore", "Aether-Node", 0.2186),
+        ("continuity", "Aether-Node", 0.1877),
+        ("hannover", "Aether-Node", 0.1631),
+        ("belonged", "Aether-Node", 0.2026),
+        ("museum", "Aether-Node", 0.2221),
+        ("inward", "Aether-Node", 0.2070),
+        ("knox", "Aether-Node", 0.2087),
+        ("hostel", "Aether-Node", 0.1716),
+        ("alma", "Aether-Node", 0.1614),
+        ("indoor", "Aether-Node", 0.2382),
+        ("organizer", "Aether-Node", 0.3428),
+        ("pits", "Aether-Node", 0.1472),
+        ("atoms", "Aether-Node", 0.2347),
+        ("pagoda", "Aether-Node", 0.2385),
+        ("baba", "Aether-Node", 0.2160),
+        ("path", "Aether-Node", 0.2492),
+        ("rings", "Aether-Node", 0.2644),
+        ("operator", "Aether-Node", 0.3506),
+        ("franciscan", "Aether-Node", 0.1498),
+        ("layered", "Aether-Node", 0.3283),
+        ("dimensional", "Aether-Node", 0.3244),
+        ("bank", "Aether-Node", 0.2789),
+        ("gladstone", "Aether-Node", 0.1392),
+        ("bengal", "Aether-Node", 0.2017),
+        ("synagogue", "Aether-Node", 0.1835),
+        ("groove", "Aether-Node", 0.2429),
+        ("bristol", "Aether-Node", 0.2047),
+        ("luftwaffe", "Aether-Node", 0.2344),
+        ("inhabited", "Aether-Node", 0.2525),
+        ("corner", "Aether-Node", 0.2118),
+        ("pigeons", "Aether-Node", 0.1700),
+        ("mane", "Aether-Node", 0.2389),
+        ("broadband", "Aether-Node", 0.3177),
+        ("neptune", "Aether-Node", 0.1803),
+        ("cavern", "Aether-Node", 0.2172),
+        ("through", "Aether-Node", 0.2445),
+        ("underneath", "Aether-Node", 0.2391),
+        ("sirius", "Aether-Node", 0.1951),
+        ("attractions", "Aether-Node", 0.1432),
+        ("bowls", "Aether-Node", 0.2403),
+        ("slit", "Aether-Node", 0.2558),
+        ("connacht", "Aether-Node", 0.1351),
+        ("boundaries", "Aether-Node", 0.3016),
+        ("edged", "Aether-Node", 0.2648),
+        ("encompass", "Aether-Node", 0.1903),
+        ("fanny", "Aether-Node", 0.1881),
+        ("labyrinth", "Aether-Node", 0.2215),
+        ("travers", "Aether-Node", 0.4255),
+        ("ring", "Aether-Node", 0.2617),
+        ("clifford", "Aether-Node", 0.2778),
+        ("town", "Aether-Node", 0.2492),
+
